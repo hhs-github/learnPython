@@ -1,2 +1,2 @@
-# learngolang
-learn go lang
+# learn Python
+
